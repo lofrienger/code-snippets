@@ -1,3 +1,5 @@
+# From https://zhuanlan.zhihu.com/p/336429888
+# 【保姆级教程】个人深度学习工作站配置指南
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
