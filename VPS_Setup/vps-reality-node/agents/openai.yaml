@@ -1,0 +1,4 @@
+interface:
+  display_name: "VPS Reality Node"
+  short_description: "Deploy a hardened FLClash-compatible VPS node"
+  default_prompt: "Use $vps-reality-node to deploy and verify a secure FLClash-compatible REALITY node on my VPS."
