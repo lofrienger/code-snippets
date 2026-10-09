@@ -10,6 +10,7 @@
 | `diagnostics/collect_pytorch_env.py` | 调用 PyTorch 官方环境收集器 | PyTorch |
 | `examples/mnist_train.py` | 可配置的 MNIST 训练示例 | PyTorch、TorchVision |
 | `vision/overlay_mask_contours.py` | 将眼底分割掩膜轮廓叠加到原图 | NumPy、OpenCV |
+| [VPS_Setup/DMIT_xray_flclash](VPS_Setup/DMIT_xray_flclash/SKILL.md) | DMIT HY2/REALITY、可选 WARP 与多平台分流技能 | Python 标准库；目标代理内核另行安装 |
 
 ## 安装
 

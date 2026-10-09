@@ -1,0 +1,4 @@
+interface:
+  display_name: "DMIT VPS · HY2 / REALITY"
+  short_description: "配置 DMIT 双协议代理、可选 WARP 出口和多平台客户端分流"
+  default_prompt: "使用 $dmit-vps-proxy 检查 DMIT VPS 和客户端现状，先汇报改动与回滚方案，再按授权配置并验证实际路由。"

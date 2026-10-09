@@ -1,0 +1,11 @@
+# Private generated material must never be published with this skill.
+/private/
+/generated/
+/access.json
+/*-flclash.yaml
+/iphone-singbox.json
+/iphone-test.json
+*.key
+*.pem
+*.crt
+__pycache__/
